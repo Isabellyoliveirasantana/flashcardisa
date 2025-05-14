@@ -1,8 +1,7 @@
 criaCartao(
     'Biotecnologia',
     'O que é biotecnologia?',
-    'A biotecnologia é um campo amplo que usa organismos vivos, ou componentes deles, para desenvolver produtos, processos e tecnologias.'
-)
+    '
 
 criaCartao(
     'Geografia',
